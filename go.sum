@@ -1,0 +1,2 @@
+github.com/bennettzhu1/bazel_go_demo_dep/pkg/api v0.0.0-20251021055314-d173d7d81366 h1:EM7nCraQeN5Kv8BDZIiotGPsjOfL8WTYY9x4nJlHfaw=
+github.com/bennettzhu1/bazel_go_demo_dep/pkg/api v0.0.0-20251021055314-d173d7d81366/go.mod h1:PemjgIb+IXO34aHuBH7hgO5n2cUOZnfr8nEibTbEl04=

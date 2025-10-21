@@ -1,0 +1,4 @@
+load("@bazel_gazelle//:def.bzl", "gazelle")
+
+# gazelle:prefix github.com/bennettzhu1/go-dep-consumer
+gazelle(name = "gazelle")

@@ -6,6 +6,6 @@ go_library(
     importpath = "github.com/bennettzhu1/go-dep-consumer/consumer",
     visibility = ["//visibility:public"],
     deps = [
-        "@com_github_bennettzhu1_bazel_go_demo_dep_pkg_api//v1",
+        "@com_github_bennettzhu1_bazel_go_demo_dep_pkg_api//v1:api",
     ],
 )
